@@ -1,4 +1,6 @@
-<h2 align="left">Namaste 🙏🏼! My name is Nitesh Kumar, and I am a Programmer, Ethical Hacker, and Cybersecurity Enthusiast from India 🇮🇳.</h2>
+<h2 align="Center">Namaste 🙏🏼! My name is Nitesh Kumar.</h2>
+
+<h2 align="left">I am a Programmer, Ethical Hacker, and Cybersecurity Enthusiast from India 🇮🇳.</h2>
 
 ###
 
