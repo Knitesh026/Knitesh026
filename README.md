@@ -26,7 +26,12 @@ Namaste 🙏🏼! My name is Nitesh Kumar.<br><br>I am a Programmer, Ethical Hac
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🐍 My Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Knitesh026/github-contribution-snake/output/snake.svg)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
