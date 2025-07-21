@@ -22,8 +22,8 @@
 ### 💼 **Professional Highlights**
 - 🌐 **5+ years** of Full-Stack Development Experience
 - 🛡️ **Certified Ethical Hacker** with expertise in Web App Security
-- 🏗️ **Built & Deployed** 50+ Production Applications
-- 📱 **Mobile & Web Solutions** for 100+ Clients Worldwide
+- 🏗️ **Built & Deployed** 20+ Production Applications
+- 📱 **Mobile & Web Solutions** for 3+ Clients Worldwide
 - 🎓 **Mentor & Educator** in Cybersecurity & Web Development
 
 ---
