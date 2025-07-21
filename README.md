@@ -1,6 +1,6 @@
 <div align="center">
 
-# � Nitesh Kumar
+# 👋 Nitesh Kumar
 ### Full-Stack Developer | Ethical Hacker | Cybersecurity Enthusiast | CEO & Founder @ Pagecraft Technologies
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F%F0%9F%8F%BC!+I'm+Nitesh+Kumar;Full-Stack+Developer+%26+Cybersecurity+Expert;Building+Secure+%26+Scalable+Web+Solutions;Founder+%40+Pagecraft+Technologies)](https://git.io/typing-svg)
