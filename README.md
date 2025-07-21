@@ -238,8 +238,8 @@ AI/ML:    OpenAI API + Intelligent Chatbot
 
 ### 📞 **Get in Touch**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0EA5E9?style=for-the-badge)](https://pagecrafttech.site)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pagecrafttech.site)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0EA5E9?style=for-the-badge)](https://nkps.site/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pagecrafttech.site)
 [![Calendar](https://img.shields.io/badge/📅_Schedule-Book_Call-00C896?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/niteshkumar)
 
 ### ☕ **Support My Work**
